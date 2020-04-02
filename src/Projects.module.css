@@ -1,3 +1,14 @@
 .projects{
-  width: 10px;
+  height: 100vh;
+  background-color: rgb(178, 224, 104);
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+  width: 80%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

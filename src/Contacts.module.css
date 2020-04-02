@@ -1,6 +1,6 @@
-.main{
+.contacts{
   height: 100vh;
-  background-color: rgb(197, 151, 211);
+  background-color: rgb(74, 87, 86);
   display: flex;
   justify-content: center;
 }

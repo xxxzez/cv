@@ -1,12 +1,14 @@
-import React from 'react';
-import styles from "./Footer.module.css";
+import React from "react";
+import styles from "./Contacts.module.css";
 
-function Footer() {
-  return (
-    <div className={styles.footer}>
-       
-    </div>
-  );
+function Contacts() {
+    return (
+        <div className={styles.contacts}>
+            <div className={styles.container}>
+              
+            </div>
+        </div>
+    );
 }
 
-export default Footer;
+export default Contacts;
